@@ -39,6 +39,9 @@ git clone https://github.com/bilafish/carpark-finder.git
 ```
 yarn install
 ```
+3. about Yarn
+https://www.geeksforgeeks.org/how-to-install-yarn-with-npm/
+
 
 3. Create a .env file in the root folder (Refer to [.env.sample](./.env.sample) as reference)
 4. Start the development environment
